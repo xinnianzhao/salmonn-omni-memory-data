@@ -1,0 +1,11 @@
+{
+  "split": "train",
+  "source_sha256": "f0fccf01ec59eeeab68c0a300b0f1a24bacd8eea8719e77bdbd003c242f1407c",
+  "turn_definition": "One original speaker utterance, not a user-assistant exchange",
+  "episodes": 160000,
+  "sessions": 800000,
+  "turns": 9394336,
+  "mean_turns_per_episode": 58.7146,
+  "mean_turns_per_session": 11.74292,
+  "mean_sessions_per_episode": 5.0
+}

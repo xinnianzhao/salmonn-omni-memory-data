@@ -1,0 +1,10 @@
+# Downloaded corpora, synthesized audio and run outputs stay local.
+/data/
+/logs/
+*.wav
+
+# Python/editor outputs.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
